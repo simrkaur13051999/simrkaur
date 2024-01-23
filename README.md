@@ -1,0 +1,2 @@
+# simrkaur
+shell scripting
